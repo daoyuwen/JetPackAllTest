@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/basketballtest" />
+            <option value="$PROJECT_DIR$/databinding" />
+            <option value="$PROJECT_DIR$/lifecycles" />
+            <option value="$PROJECT_DIR$/livedatatest" />
+            <option value="$PROJECT_DIR$/localization" />
+            <option value="$PROJECT_DIR$/navdemo2" />
+            <option value="$PROJECT_DIR$/navigationdemo" />
+            <option value="$PROJECT_DIR$/roombasic" />
+            <option value="$PROJECT_DIR$/sharedpreferences" />
+            <option value="$PROJECT_DIR$/test" />
+            <option value="$PROJECT_DIR$/uidemo" />
+            <option value="$PROJECT_DIR$/viewmodelsavedstate" />
+            <option value="$PROJECT_DIR$/viewmodelshp" />
+            <option value="$PROJECT_DIR$/viewmodeltest" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

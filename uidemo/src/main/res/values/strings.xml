@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UiDemo</string>
+    <string name="textview">DisPlay</string>
+    <string name="right">右</string>
+    <string name="left">左</string>
+    <string name="truee">确定</string>
+</resources>

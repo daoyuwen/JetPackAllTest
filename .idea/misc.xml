@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/JetPackAllTest/app/src/main/res/layout/activity_main.xml" value="0.37916666666666665" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/basketballtest/src/main/res/layout-land/activity_main.xml" value="0.36486486486486486" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/basketballtest/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/databinding/src/main/res/layout/activity_main.xml" value="0.2140625" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/datastore/src/main/res/layout/activity_main.xml" value="0.21354166666666666" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/lifecycles/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/livedatatest/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/localization/src/main/res/layout-land/activity_main.xml" value="0.15833333333333333" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/localization/src/main/res/layout/activity_main.xml" value="0.33613445378151263" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/navdemo2/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/navdemo2/src/main/res/layout/fragment_detail.xml" value="0.16" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/navdemo2/src/main/res/layout/fragment_home.xml" value="0.16" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/navigationdemo/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/navigationdemo/src/main/res/layout/fragment_detail.xml" value="0.19329896907216496" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/navigationdemo/src/main/res/layout/fragment_home.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/roombasic/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/roombasic/src/main/res/layout/cell_card.xml" value="0.22388059701492538" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/roombasic/src/main/res/layout/cell_card_2.xml" value="0.14074074074074075" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/roombasic/src/main/res/layout/cell_normal.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/roombasic/src/main/res/layout/cell_normal2.xml" value="0.2" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/roombasic/src/main/res/layout/ids.xml" value="0.14074074074074075" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/uidemo/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/viewmodelsavedstate/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/viewmodelshp/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/AndroidProject/JetPackAllTest/viewmodeltest/src/main/res/layout/activity_main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.21354166666666666" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
